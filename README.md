@@ -1,5 +1,6 @@
 # airbnb-clone-project.
-Objective
+
+# Objective
 The backend for the Airbnb Clone project is designed to provide a robust and scalable foundation for managing user interactions, property listings, bookings, and payments. This backend will support various functionalities required to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts.
 Project Goals
 User Management: Implement a secure system for user registration, authentication, and profile management.
@@ -8,7 +9,8 @@ Booking System: Create a booking mechanism for users to reserve properties and m
 Payment Processing: Integrate a payment system to handle transactions and record payment details.
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
-🛠️ Features Overview
+
+# Features Overview
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
@@ -31,7 +33,8 @@ Features: Post and manage reviews for properties.
 7. Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
-   Technology Stack
+
+# Technology Stack
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
 PostgreSQL: A powerful relational database used for data storage.
